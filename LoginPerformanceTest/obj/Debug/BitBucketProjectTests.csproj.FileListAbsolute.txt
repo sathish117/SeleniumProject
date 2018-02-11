@@ -1,0 +1,16 @@
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\obj\Debug\BitBucketProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\WebDriver.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\WebDriver.xml
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\BitBucketProjectTests.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\BitBucketProjectTests.pdb
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\BitBucketProject.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\bin\Debug\BitBucketProject.pdb
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\obj\Debug\BitBucketProjectTests.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\LoginPerformanceTest\obj\Debug\BitBucketProjectTests.pdb

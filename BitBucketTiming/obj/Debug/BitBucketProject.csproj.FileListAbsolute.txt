@@ -1,0 +1,15 @@
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\WebDriver.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\WebDriver.xml
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\BitBucketProject.dll.config
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\BitBucketProject.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\bin\Debug\BitBucketProject.pdb
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\obj\Debug\BitBucketProject.dll
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\obj\Debug\BitBucketProject.pdb
+C:\Users\usnatsat\Documents\Visual Studio 2013\Projects\SeleniumProject\BitBucketTiming\obj\Debug\BitBucketProject.csprojResolveAssemblyReference.cache
